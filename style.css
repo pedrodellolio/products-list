@@ -162,6 +162,7 @@ footer {
   text-align: center;
   padding: 1.5rem;
   color: #868686;
+  font-size: 1rem;
 }
 
 @media (min-width: 500px) {

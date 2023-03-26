@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "name": "Camiseta",
+            "price": "100",
+            "description": "Essa camiseta preta é um item básico e versátil para o seu guarda-roupa. Feita de algodão macio e confortável, ela apresenta um ajuste clássico que combina com qualquer estilo e ocasião. Use-a como uma peça de base para um visual casual ou adicione acessórios para um look mais elegante. Combinando estilo e praticidade, essa camiseta preta é uma escolha indispensável para o seu guarda-roupa.",
+            "imagemUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80"
+        },
+        {
+            "name": "Tênis",
+            "price": "200",
+            "description": "Este par de tênis é vibrante e colorido, apresentando um design moderno e elegante. A parte superior é feita de material resistente e respirável, garantindo conforto e durabilidade durante o uso. A sola é projetada com uma textura antiderrapante para melhor tração e estabilidade. Com um estilo versátil e cores vibrantes, este par de tênis pode ser facilmente combinado com roupas casuais ou esportivas, tornando-se uma escolha perfeita para qualquer atividade do dia a dia.",
+            "imagemUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+        },
+        {
+            "name": "Caneta",
+            "price": "50",
+            "description": "Com traços finos e precisos, é ideal para escrita e desenhos. Fabricada em material resistente, oferece conforto e durabilidade. Com um design clean e discreto, esta caneta é um acessório essencial para o dia a dia, seja para anotações, assinaturas ou desenhos. Uma opção sofisticada e funcional para todos os gostos.",
+            "imagemUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=675&q=80"
+        },
+        {
+            "name": "Mochila",
+            "price": "300",
+            "description": "Com seu visual moderno e despojado, esta mochila é perfeita para quem busca praticidade sem abrir mão do estilo. Feita com tecido jeans resistente e durável, esta mochila é perfeita para uso diário, seja na escola, no trabalho ou em suas aventuras ao ar livre. Com amplo espaço interno e bolsos externos, você poderá armazenar seus itens essenciais com segurança e organização. A alça acolchoada e ajustável garante conforto durante o uso prolongado, enquanto o acabamento em couro sintético acrescenta um toque extra de sofisticação.",
+            "imagemUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "name": "Headphone",
+            "price": "200",
+            "description": "O headphone é o acessório perfeito para quem ama música e quer desfrutar de uma experiência sonora incrível. Com almofadas auriculares macias e ajustáveis, é possível ouvir suas músicas favoritas por horas sem desconforto. O headphone é feito com materiais resistentes e duráveis, garantindo a sua durabilidade e resistência a quedas e impactos. Com uma qualidade de som superior e graves aprimorados, você irá se sentir imerso em sua música e curtir cada nota com perfeição. Além disso, o headphone é equipado com um microfone embutido, o que o torna uma excelente opção para quem precisa realizar chamadas telefônicas com as mãos livres. Com um design moderno e elegante, este headphone é a escolha perfeita para quem busca um acessório prático e estiloso para acompanhar suas atividades diárias.",
+            "imagemUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80"
+        },
+        {
+            "name": "Garrafa 750ml",
+            "price": "150",
+            "description": "Garrafa de água em um tom de verde, com capacidade de 750ml. Ideal para levar para a academia, para o trabalho ou para atividades ao ar livre. Fabricada em alumínio de alta qualidade, esta garrafa é resistente e durável, perfeita para acompanhar seu estilo de vida agitado. Sua tampa rosqueável garante vedação segura e evita vazamentos, e a alça de transporte facilita o transporte. Com um design moderno e funcional, esta garrafa de alumínio verde é uma escolha elegante e consciente para quem busca uma alternativa reutilizável e sustentável para garrafas descartáveis",
+            "imagemUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "name": "Banco de madeira",
+            "price": "100",
+            "description": "Banco alto de madeira elegante e minimalista, perfeito para complementar a decoração do seu espaço. Com seu design simples e sem encosto, é ideal para espaços compactos e modernos. Feito com materiais de alta qualidade, este banco proporciona durabilidade e conforto para quem se senta nele. Seu acabamento impecável e sua estrutura resistente tornam-no uma escolha perfeita para cozinhas, bares ou áreas de convivência.",
+            "imagemUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "name": "Fone de ouvido",
+            "price": "120",
+            "description": "Este fone de ouvido intra-auricular é perfeito para quem busca uma experiência sonora de alta qualidade e conforto durante o uso. Seu design ergonômico se ajusta perfeitamente ao canal auditivo, garantindo uma melhor acústica e isolamento de ruídos externos. Além disso, sua estrutura leve e compacta é ideal para quem busca mobilidade sem abrir mão da qualidade sonora. Com uma ampla gama de frequências e resposta de graves otimizada, este fone de ouvido proporciona uma experiência sonora única e imersiva. Seu cabo de comprimento ideal garante praticidade e facilidade no uso, seja para ouvir música, assistir filmes ou fazer chamadas telefônicas. Escolha a qualidade e o conforto que este fone de ouvido intra-auricular pode oferecer e tenha uma experiência sonora incrível em qualquer lugar.",
+            "imagemUrl": "https://images.unsplash.com/photo-1583343894790-5cff219de28a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=648&q=80"
+        }
+    ]
+}

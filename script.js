@@ -1,4 +1,5 @@
 let products = [];
+
 window.onload = async () => {
   await loadProducts();
 
@@ -9,7 +10,7 @@ window.onload = async () => {
     let grid = "";
     products.forEach((product, i) => {
       grid += `
-      <div onclick="productDetails(${i})" class="grid-item">
+      <div onclick="showProductDetails(${i})" class="grid-item">
         <img
           width="100%"
           height="450px"
@@ -32,10 +33,12 @@ window.onload = async () => {
 var modal = document.querySelector(".modal");
 var modalContent = document.querySelector(".modal-content");
 
-function productDetails(productIndex) {
-  // When the modal is shown, we want a fixed body
+function showProductDetails(productIndex) {
   const scrollY = document.documentElement.style.getPropertyValue("--scroll-y");
-  modal.style.top = `-${scrollY}`;
+  const body = document.body;
+  body.style.position = "fixed";
+  body.style.transform = "translate(-50%, -50%);";
+  body.style.top = `-${scrollY}`;
 
   const product = products[productIndex];
   modalContent.innerHTML = `
@@ -62,21 +65,21 @@ function productDetails(productIndex) {
 
 function closeModal() {
   modal.style.display = "none";
-  //
+
+  const body = document.body;
   const scrollY = body.style.top;
-  modal.style.top = "";
+  body.style.position = "";
+  body.style.top = "";
   window.scrollTo(0, parseInt(scrollY || "0") * -1);
-  //
 }
 
-//
 window.addEventListener("scroll", () => {
   document.documentElement.style.setProperty(
     "--scroll-y",
     `${window.scrollY}px`
   );
 });
-//
+
 window.onclick = function (event) {
   if (event.target == modal) {
     modal.style.display = "none";
